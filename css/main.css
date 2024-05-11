@@ -12,6 +12,13 @@ body {
     background: #ffe6ac;
 }
 
+/* Styles for the main image in the content */
+main img {
+    width: 60%;
+    height: auto;
+}
+
+
 /* Styles for the header */
 header {
     background-color: #222;
