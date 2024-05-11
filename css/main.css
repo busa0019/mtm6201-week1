@@ -16,6 +16,7 @@ body {
 main img {
     width: 60%;
     height: auto;
+    margin-bottom: 20px;
 }
 
 
@@ -37,7 +38,7 @@ dl {
     padding: 20px; 
     margin-left: 20px;
 }
-dt {
+dt, h2 {
     font-weight: bold; 
     font-size: 1.5em;
 }
